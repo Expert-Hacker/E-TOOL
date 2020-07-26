@@ -1,8 +1,8 @@
 <h1 align="center">💻E-TOOL🎃</h1>
 <p align="center">
-      Hack 🎤Microphone from victim </p>
+      👉Hack 🎤Microphone from victim </p>
 <p align="center">    
-      Hack 📷Camera from victim 
+      👉Hack 📷Camera from victim 
       </p>
 
    ### 🎯 About E-TOOL

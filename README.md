@@ -5,7 +5,8 @@
       Hack 📷Camera from victim 
       </p>
 
-   ### 🎯 ***About grabcam***:
+   ### 🎯 About E-TOOL
+
 
 E-TOOL is a Tool which can be used to Get Microphone voice note from victim also get Photos from victim phone, it's aBash based script officialy made by Expert-Hacker. This tool works on both rooted Android device and Non-rooted Android device.
 

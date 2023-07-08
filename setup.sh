@@ -11,6 +11,10 @@ pkg install python -y
 sleep 1
 apt-get install sl
 sleep 1
+pkg install which -y
+sleep 1
+pkg install openssh -y
+sleep 1
 pkg install python2 -y
 sleep 1
 pkg install git -y

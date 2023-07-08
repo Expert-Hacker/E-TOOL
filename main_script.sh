@@ -16,6 +16,7 @@ echo "
 
 echo "Coded By KEERTHAN" |lolcat
 echo "YouTube : www.YoutTube.com/Expert Hacker" |lolcat
+echo "Last updated: 08-july-2023" |lolcat
 
 #MENU DRULIVEN START HERE..!
 echo "---------------------------------"

@@ -27,10 +27,10 @@ echo "
 ░░░▄██▄▄▀▀▀▀▀▀▀▄▄██▄░░░
 ░▄█░█▀▀█▀▀▀█▀▀▀█▀▀█░█▄░
 " |lolcat
-printf "\e[1;77m v1.1 coded by C-T-L\e[0m \n"
 printf "Re-Designed By: EXPERT HACKER \n" |lolcat
 printf " YouTube: EXPERT HACKER\n" |lolcat
-printf " Last updated: 08-july-2023" |lolcat
+printf " Last updated: 08-July-2023" |lolcat
+
 
 }
 

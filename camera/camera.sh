@@ -37,7 +37,7 @@ echo "
 echo " "
 printf "           Script Re-Designed By Expert-Hacker \n" |lolcat
 printf "           YouTube: Expert Hacker \n" |lolcat
-printf "           Last updated: 08-july-2023" |lolcat
+printf "           Last updated: 08-July-2023" |lolcat
 
 printf "\n"
 

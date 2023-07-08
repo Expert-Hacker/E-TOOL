@@ -7,6 +7,10 @@ cd $HOME
 if [[ -e ngrok ]]; then
 echo "Ngrok was Found..ok!"
 sleep 2
+pip install lolcat
+sleep 2
+pkg install php -y
+sleep 2
 pkg install python -y
 sleep 1
 apt-get install sl
